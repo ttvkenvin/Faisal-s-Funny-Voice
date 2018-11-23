@@ -18,11 +18,6 @@ sound effect:
 
 Come and experience it.
 
- # Screenshot: 
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/1.png)
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/2.png)
-![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/3.png)
-
 # Privacy Policy
 Faisal's Funny Voice respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, Faisal's Funny Voice will use and disclose your personal information in accordance with this Privacy Policy. But Faisal's Funny Voice will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Faisal's Funny Voice will not disclose or provide such information to third parties without your prior permission. Faisal's Funny Voice will update this Privacy Policy from time to time. By agreeing to the Faisal's Funny Voice Service Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Faisal's Funny Voice Service Use Agreement.
 
@@ -76,3 +71,8 @@ a) If you have not refused to accept cookies, Faisal's Funny Voice will set or a
 b) You have the right to choose to accept or decline to accept cookies. You can refuse to accept cookies by modifying your browser settings. However, if you choose to refuse to accept cookies, you may not be able to log in or use the Faisal's Funny Voice web service or feature that relies on cookies.
 
 c) This policy will apply to information obtained through the cookies set by Faisal's Funny Voice.
+
+ # Screenshot: 
+![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/1.png)
+![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/2.png)
+![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/3.png)
