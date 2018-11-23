@@ -1,12 +1,19 @@
 # Faisal's Voice Changer
  
 A lightweight sounder application. With a variety of sound effects, add a little fun to the boring life.
+
 sound effect:
+
 1, snail: slow down
+
 2, rabbit: speed up
+
 3, chipmunk: improve the tone
+
 4, Tiger: lower the tone
+
 5, parrot: echo
+
 6, abstract: mixed sound
 
 Come and experience it.
