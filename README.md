@@ -15,7 +15,6 @@ Come and experience it.
 ![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/1.png)
 ![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/2.png)
 ![image](https://github.com/ttvkenvin/Faisal-s-Funny-Voice/blob/master/sc/3.png)
-![Screenshot 4](sc/4.PNG)
 
 # Privacy Policy
 Faisal's Funny Voice respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, Faisal's Funny Voice will use and disclose your personal information in accordance with this Privacy Policy. But Faisal's Funny Voice will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Faisal's Funny Voice will not disclose or provide such information to third parties without your prior permission. Faisal's Funny Voice will update this Privacy Policy from time to time. By agreeing to the Faisal's Funny Voice Service Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Faisal's Funny Voice Service Use Agreement.
